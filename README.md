@@ -1,2 +1,2 @@
-# Note_Taking_website
-Note_Taking_website
+Task Manager Web Application
+This is a basic Task Manager Web Application using HTML CSS Javascript.
